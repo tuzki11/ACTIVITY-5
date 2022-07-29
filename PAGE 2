@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="Viewport"content="Width=width-device,initial scale 1">
+        <link rel="stylesheet"href="casipong.css">
+        <title>FATHER</title>
+
+    <style>
+        body {
+             Background-color:lightblue;
+             background-size:cover ;
+             background-repeat:no-repeat ;
+        }
+             #container{
+
+            width:1000px;
+            margin: 0 auto;
+
+        }
+        .coll{
+            width:500px;
+            float:left;
+
+        }
+        .col2{
+            width:500px;
+            float:left;
+
+        }
+        img{
+            width:200;
+            height:200;
+            float: right;
+            margin:0 200px 0 0;
+            border: 3px solid chocolate;
+
+        }
+         h2{
+             text-align: center;
+            margin:30px 30px 0 200;
+        }
+        h1{
+            border:5px transparent;
+            outline-color: transparent;
+        }
+        h3{
+            color: black;
+            opacity: 80%;
+            font-weight:  bold;
+            text-align: center;
+        }
+
+    </style>
+    </head>
+
+
+        <body>
+            <h1>USER INFORMATION</h1>
+<br /><br />
+
+            <img src="melvin.jpeg"width="200" height="200" float="right" margin="0 0 20px 20px">
+            <hr>
+            <h1>Melvin casipong</h1>
+            <h2>I Love My Family</h2>
+            <hr>
+            <br /><br />
+        <div id="container">
+            <div class="coll">
+                <h2 class="heading"> </h2>
+               <h2><p>PLACE OF BIRTH:</p></h2>
+               <h2> <p>CIVIL STATUS:</p></h2>
+               <h2> <p>RELIGION:</p></h2>
+                <h2> <p>CITIZENSHIP:</p></h2>
+                <h2> <p>HEIGHT:</p></h2>
+            </div>
+            <div class="col2">
+                <h2 class="heading"> </h2>
+            <h2> <p>MANILA</p></h2>
+            <h2> <p>MARRIED</p></h2>
+            <h2> <p>IGLESIA NI CRISTO</p></h2>
+            <h2> <p>FILIPINO</p></h2>
+            <h2> <p>6'4</p></h2>
+            </div>
+        </div>
+        </div>
+
+
+
+
+
+        </body>
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <br /><br />
+        <a href="casipong.html">
+            <button type="button" class="button">
+                <span class="button_icon">
+                 <ion-icon name="home-outline"></ion-icon>
+
+                </span>
+              </button>
+            </a>
+               <p style="color:white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus rem, odit, voluptatem quo aperiam quae sint in fuga veritatis odio doloremque neque aspernatur! Vero, dolores reiciendis aliquid temporibus at reprehenderit error dolorum architecto libero fugit consectetur doloribus blanditiis repudiandae totam, fugiat eius nulla nisi asperiores minima praesentium quia! Iusto, amet.</p>
+
+             </a>
+
+            <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+            <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</html>
